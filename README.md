@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi there 👋, I'm Sonali Kumari</h1>
 <h3 align="center">🔐 Cybersecurity Enthusiast | 🌱 Machine Learning Explorer | 👩‍🎓 M.Tech @ NIT Jamshedpur</h3>
 <p align="center">
