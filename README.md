@@ -52,7 +52,6 @@
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
 
 ## 🛠️ Languages, Tools & Technologies
 
