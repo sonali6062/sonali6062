@@ -29,16 +29,26 @@
 
 ## 💼 Cybersecurity & Machine Learning Gigs
 
-### 🔐 **Security-Oriented Development**
-- Built web applications with secure routing, sanitized forms, and access control using Django.
-- Participated in coursework and internal labs focusing on **secure coding** and **information assurance**.
+### 🔐 Security-Focused Development
+- Designed and implemented an advanced **image encryption system** leveraging **chaotic maps** (e.g., Logistic, Tent, or Henon maps) to generate highly secure, non-linear cryptographic keys.
+- Integrated chaotic key generation with pixel-level transformations to encrypt images with **high sensitivity, entropy, and resistance to brute-force and statistical attacks**.
+- Applied principles from information theory and cryptography to simulate and analyze system robustness for secure image transmission and storage.
+- Explored **information system assurance**, secure coding practices, and cryptographic algorithm design in academic and applied settings.
 
-### 🤖 **Data Science & Machine Learning**
-- Intern @ **The Sparks Foundation** – built regression/classification models using Python & scikit-learn.
-- Projects involve **CNN-based image recognition**, **real-time inference**, and **predictive systems**.
+### 🤖 Applied Machine Learning & AI
+- Intern @ **The Sparks Foundation**: Developed machine learning pipelines using **Python**, **scikit-learn**, and **pandas**, focusing on regression/classification tasks and model performance optimization.
+- Built and trained CNN-based models for **plant disease detection**, integrating **real-time image processing** and **predictive analysis** into a user-friendly web platform.
+- Developed an **end-to-end ML-powered full stack application** where users upload images of plant leaves through a web interface to:
+  - 🔍 **Detect the disease**,
+  - 💊 **Display the cure**, and
+  - 🛡️ **Recommend preventive measures** to avoid recurrence.
+- Implemented **data pipelines**, **data preprocessing**, and **visualization dashboards** to monitor model behavior and performance metrics.
 
-### 🧪 **Testing & Automation**
-- Completed automation training (Java + Selenium) to test ML and backend systems with efficiency and confidence.
+### 🧪 Automation & Quality Engineering
+- Completed professional training in **Automation Testing** using **Java and Selenium**, improving QA efficiency for backend and ML-integrated systems.
+- Designed automated test cases for web apps and model-serving interfaces, ensuring **end-to-end functionality**, **data integrity**, and **user experience reliability**.
+- Built reusable test suites to simulate real-world user behavior and validate robustness across system components.
+
 
 ---
 
