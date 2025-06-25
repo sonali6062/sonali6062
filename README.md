@@ -89,7 +89,8 @@
 
 ---
 
-### 🔐 Resarch Area- Visual Security Across Networks
+### 🔐 Research Domain- Network Security,Cryptography & Encryption,Privacy and Data Protection
+
 
 > 🛰️ *Securing the future of image and video communication in an increasingly connected world.*
 
