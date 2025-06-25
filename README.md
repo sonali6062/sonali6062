@@ -89,21 +89,23 @@
 
 ---
 
-## 🌟 Highlight Projects
+### 🔐 Resarch Area- Visual Security Across Networks
 
-### 🧑‍💼 [Employee Management System](https://github.com/sonali6062/Employee-Management-System)
-> Full-stack Django web app for efficient employee management  
-Built with **Django**, **Bootstrap 5**, and **SQLite**  
-- 🔐 Role-based access & admin control  
-- 💻 Clean, responsive frontend  
-- 📊 Efficient CRUD operations & data handling
+> 🛰️ *Securing the future of image and video communication in an increasingly connected world.*
 
-### 🌿 [Cotton Plant Disease Detection](https://github.com/sonali6062/Cotton_plant_disese_detection)
-> CNN-powered image classification for precision agriculture  
-Implemented using **Python**, **TensorFlow**, **OpenCV**  
-- 🌱 Real-time leaf disease detection  
-- 📷 Image preprocessing for accuracy  
-- 🚜 Targeted at improving farmer outcomes by reducing crop loss
+This research explores cutting-edge techniques to make **image and video transmission safer over potentially insecure networks**. Our focus spans multiple dimensions of visual security:
+
+#### 🔍 Key Focus Areas
+- 🛡️ **End-to-End Encryption** for real-time visual data streams  
+- 🧠 **AI-powered Tamper & Spoof Detection** to identify unauthorized modifications  
+- 👁️‍🗨️ **Visual Privacy Techniques** — including facial blurring and sensitive content masking  
+- 📡 **Secure Streaming Protocols** with integrity verification and low-latency encryption
+
+> 💡 **Research Supervisor:** [Prof. Alekha Kumar Mishra] 
+> 🏛️ **Institution:** National Institute of Technology (NIT), Jamshedpur  
+> 🧪 **Department:** Computer Science & Engineering
+
+This work aims to build a foundation for **trustworthy, private, and tamper-resistant visual communication** across digital platforms.
 
 ---
 
