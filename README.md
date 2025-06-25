@@ -99,7 +99,7 @@ This research explores cutting-edge techniques to make **image and video transmi
 #### 🔍 Key Focus Areas
 - 🛡️ **End-to-End Encryption** for real-time visual data streams  
 - 🧠 **AI-powered Tamper & Spoof Detection** to identify unauthorized modifications  
-- 👁️‍🗨️ **Visual Privacy Techniques** — including facial blurring and sensitive content masking  
+- 👁️‍🗨️ **Visual Privacy Techniques** — including transforming the data converted to unreadable format
 - 📡 **Secure Streaming Protocols** with integrity verification and low-latency encryption
 
 > 💡 **Research Supervisor:** [Prof. Alekha Kumar Mishra] 
