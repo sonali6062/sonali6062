@@ -22,7 +22,7 @@
 🎓 Mentored under industry-grade training and real-time project work through internships and hackathons.
 
 💬 Let’s collaborate if you're working on: ML for security, intelligent systems, or cool backend tools.  
-📫 Drop a mail at: **sonalikumari60662@gmail.com**  
+📫 Drop a mail at: **sonalikumari6062@gmail.com**  
 📺 Or catch my tutorials on YouTube: [Code with Daisy](https://www.youtube.com/@CodewithDaisy)
 
 ---
