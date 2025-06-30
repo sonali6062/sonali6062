@@ -135,7 +135,8 @@ This work aims to build a foundation for **trustworthy, private, and tamper-resi
     <img src="https://github-readme-stats.vercel.app/api?username=sonali6062&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="Sonali's GitHub stats" />
   </a>
   <a href="https://github.com/sonali6062">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali6062&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="Sonali's Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali6062&layout=compact&theme=tokyonight" height="170" alt="Sonali's Top Languages" />
+
   </a>
 </p>
 
