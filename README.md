@@ -129,6 +129,10 @@ This work aims to build a foundation for **trustworthy, private, and tamper-resi
 
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sonali6062.sonali6062&style=flat-square&color=brightgreen" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/sonali6062">
