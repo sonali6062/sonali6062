@@ -172,4 +172,4 @@ This work aims to build a foundation for **trustworthy, private, and tamper-resi
 
 ---
 
-> 💡 *"Engineering intelligent defenses—where AI meets cybersecurity"*
+> 💡 *"Engineering intelligent defenses-where AI meets cybersecurity"*
